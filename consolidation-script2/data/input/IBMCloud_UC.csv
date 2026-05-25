@@ -7,3 +7,4 @@ GDP,GDP 12.1,IBM Cloud Databases for MongoDB,4.4,,,,,https://github.com/IBM/univ
 GDP,GDP 12.2,IBM Cloud Databases for MongoDB,4.4,,,,,https://github.com/IBM/universal-connectors/blob/main/filter-plugin/logstash-filter-mongodb-guardium/IBMCloudMongoDB_README.md
 GDP,GDP 12.1,IBM Cloud Databases for PostgreSQL,v15,,,,,https://github.com/IBM/universal-connectors/blob/main/filter-plugin/logstash-filter-postgres-ibmcloud-guardium/README.md
 GDP,GDP 12.2,IBM Cloud Databases for PostgreSQL,v15,,,,,https://github.com/IBM/universal-connectors/blob/main/filter-plugin/logstash-filter-postgres-ibmcloud-guardium/README.md
+GDP,GDP 12.2.2,IBM watsonx over JDBC,2.3.1,,,,,https://github.com/IBM/universal-connectors/blob/main/docs/KafkaBasedUCs/WatsonXKafkaConnect.md
