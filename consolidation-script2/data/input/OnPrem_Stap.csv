@@ -6572,3 +6572,7 @@ GDP,12.2,Oracle Linux,Oracle Linux 8,Oracle,Oracle 26ai,KTAP,KTAP,ATAP ASO SSL,,
 GDP,12.2,Oracle Linux,Oracle Linux 9,Oracle,Oracle 26ai,KTAP,KTAP,ATAP ASO SSL,,KTAP,"KTAP, ATAP",KTAP,KTAP,,KTAP,Yes,,RAC and Exadata configurations are surpported. Guardium Client IP and Analyzed Client IP are not supported in Oracle SSL traffic. Oracle Express XE is not supported. ATAP with Linux 2.6.36 and higher only.
 GDP,12.2,Red Hat,Red Hat 8,Oracle,Oracle 26ai,KTAP,KTAP,ATAP ASO SSL,,KTAP,"KTAP, ATAP",KTAP,KTAP,,KTAP,Yes,,RAC and Exadata configurations are surpported. Guardium Client IP and Analyzed Client IP are not supported in Oracle SSL traffic. Oracle Express XE is not supported. ATAP with Linux 2.6.36 and higher only.
 GDP,12.2,Red Hat,Red Hat 9,Oracle,Oracle 26ai,KTAP,KTAP,ATAP ASO SSL,,KTAP,"KTAP, ATAP",KTAP,KTAP,,KTAP,Yes,,RAC configuration is surpported. Guardium Client IP and Analyzed Client IP are not supported in Oracle SSL traffic. Oracle Express XE is not supported.
+GDP,12.2,Windows Server,Windows Server 2016,MS SQL Server,MS SQL Server 2025,STAP,STAP,STAP,,STAP,STAP,STAP,,,STAP,STAP,"TCP, NMP",
+GDP,12.2,Windows Server,Windows Server 2019,MS SQL Server,MS SQL Server 2025,STAP,STAP,STAP,,STAP,STAP,STAP,,,STAP,STAP,"TCP, NMP",
+GDP,12.2,Windows Server,Windows Server 2022,MS SQL Server,MS SQL Server 2025,STAP,STAP,STAP,,STAP,STAP,STAP,,,STAP,STAP,"TCP, NMP",
+GDP,12.2,Windows Server,Windows Server 2025,MS SQL Server,MS SQL Server 2025,STAP,STAP,STAP,,STAP,STAP,STAP,,,STAP,STAP,"TCP, NMP",
